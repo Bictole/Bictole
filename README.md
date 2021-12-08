@@ -8,9 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/victor-simonin/" title="LinkedIn Profile"><img width="40" src="images/linkedin.svg"></a></code>
-  <code><a href="https://www.gottagohack.fr/" title="GottaGoHack"><img width="40" src="images/hackerrank.png"></a></code>
-  <code><a href="https://citron.io/" title="Citron"><img width="40" src="images/stackoverflow.svg"></a></code>
+    <a href="https://www.linkedin.com/in/victor-simonin/" title="LinkedIn Profile"><img width="45" src="images/linkedin.svg"></a></code>
+  <code><a href="https://www.gottagohack.fr/" title="GottaGoHack"><img width="45" src="images/Gotta_Go_Hack_Logo.png"></a></code>
+  <code><a href="https://citron.io/" title="Citron"><img width="45" src="images/citron.png"></a></code>
 </h5>
 <br>
 <p align="center">
