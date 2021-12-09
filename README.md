@@ -17,7 +17,7 @@
   Hi, I'm Victor, Student in Computer Science & Software Developer from France
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in EPITA Paris !
+  🔬 I am currently studying for a master's degree in EPITA Paris !
   <br>
   🎓 I graduated from Ambroize Croizat High School
   <br>
