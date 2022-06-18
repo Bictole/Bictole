@@ -30,10 +30,20 @@
 
 <h2 align="center">Languages and Tools</h2>
 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/-NUMPY-red?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-PANDAS-yellow?style=for-the-badge&logo=pandas)
+![Keras](https://img.shields.io/badge/-KERAS-blue?style=for-the-badge&logo=keras)
+![Tensorflow](https://img.shields.io/badge/-TENSORFLOW-lightgrey?style=for-the-badge&logo=tensorflow)
+![Sklearn](https://img.shields.io/badge/-SKLEARN-yellowgreen?style=for-the-badge&logo=scikit-learn)
+![Spark](https://img.shields.io/badge/-SPARK-violet?style=for-the-badge&logo=apachespark)
+![Scala](https://img.shields.io/badge/-SCALA-critical?style=for-the-badge&logo=scala)
+![Jupyter](https://img.shields.io/badge/-JUPYTER-white?style=for-the-badge&logo=jupyter)
+![C](https://img.shields.io/badge/-C-important?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B-9cf?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
