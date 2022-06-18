@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/Bictole/Bictole/blob/main/resources/snake_grid.svg"
        alt="snake" /></a>
 </div>
 
@@ -77,22 +77,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Bictole/Website" title="Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bictole&repo=Website&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Bictole/ChessAI" title="Chess AI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bictole&repo=ChessAI&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Bictole/HACKATHON4.0" title="Hackathon 4.0"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=bictole&repo=HACKATHON4.0&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Bictole/OCR" title="OCR"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bictole&repo=OCR&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="center" href="https://github.com/Bictole/ODYH" title="ODYH"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bictole&repo=ODYH&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/Bictole?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
