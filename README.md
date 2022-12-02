@@ -12,20 +12,20 @@
        alt="snake" /></a>
 </div>
 
-
 <br>
 
-<p>
-  Hi, I'm Victor, Student in Data Science & Data Engineering from France
-  <br>
-  <br>
-  🔬 I am looking for an end-of-study internship abroad or in France in the fields of data science, imaging or data engineering. This internship, lasting 6 months, should start during the first semester of 2023. Passionate about IT, music and strategy games, I want to learn as much as possible and set myself challenges and goals. Currently in first year of Master at EPITA, majoring in Data Science, Artificial Intelligence and Big Data. I am also a member of the assistant team.
-  <br>
-  <br>
-  💬 Visit my website <a href="https://www.victorsimonin.fr/" title="WebSite">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: victor.simonin@epita.fr">victor.simonin@epita.fr</a>
-</p>
+
+<a href="https://github.com/Bictole">
+  <img  alt="Bictole's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Bictole?cardType=github&theme=github-dark" align="right" />
+</a>
+
+- :office: &nbsp;I'm currently working at **EPITA**
+- :seedling: &nbsp;I’m currently learning **Machine Learning and Artificial Intelligence**
+- :speech_balloon: &nbsp;I like to talk about **Chess** and **Music**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :apple: &nbsp;Visit my **[website]**
+
 <br>
 
 <h2 align="center">Languages and Tools</h2>
@@ -47,7 +47,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -56,6 +55,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
+
 <h2 align="center">Few Links</h2>
 
 <h5 align="center">
@@ -64,3 +64,9 @@
   <code><a href="https://www.gottagohack.fr/" title="GottaGoHack"><img width="45" src="images/Gotta_Go_Hack_Logo.png"></a></code>
   <code><a href="https://citron.io/" title="Citron"><img width="45" src="images/citron.png"></a></code>
 </h5>
+
+
+[issues page]: https://github.com/Bictole/Bictole/issues "Bictole/issues"
+[linkedin]: https://www.linkedin.com/in/victor-simonin/ "Victor Simonin LinkedIn"
+[website]: https://www.victorsimonin.fr "Victor Simonin Website"
+[email]: victor.simonin@epita.fr "Victor Simonin email"
