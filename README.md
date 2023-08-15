@@ -11,21 +11,6 @@
   <img  src="https://github.com/Bictole/Bictole/blob/main/resources/snake_grid.svg"
        alt="snake" /></a>
 </div>
-
-<br>
-
-
-<a href="https://github.com/Bictole">
-  <img  alt="Bictole's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Bictole?cardType=github&theme=github-dark" align="right" />
-</a>
-
-- :office: &nbsp;I'm currently working at **EPITA**
-- :seedling: &nbsp;I’m currently learning **Machine Learning and Artificial Intelligence**
-- :speech_balloon: &nbsp;I like to talk about **Chess** and **Music**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :apple: &nbsp;Visit my **[website]**
-
 <br>
 
 <h2 align="center">Languages and Tools</h2>
